@@ -16,9 +16,13 @@ Files are used instead of SQL DBs for simplicity
 Instructions to run the App:
 ===
 Download all files to local directory.
-Get the App-key from Alpha Vantage website (Key is provided for FREE. Need to register in website and get the key).
-Replace the key in https://github.com/aravindprasad90/Stock-app-with-flask-and-sql/blob/master/stock_library.py file, line number - 90.
-Also Replace the Email-id and Passwords in https://github.com/aravindprasad90/Stock-app-with-flask-and-sql/blob/master/stock_library.py, line numbers - 144 and 153. This is used for sending mail notifications to the Mail-ID provided by user.
+
+Get the App-key from Alpha Vantage website (Key is provided for FREE. Need to register in website and get the key). 
+
+Replace the key in https://github.com/aravindprasad90/Stock-app-flask-sql/blob/master/stock_library.py file, line number - 90.
+
+Also Replace the Email-id and Passwords in https://github.com/aravindprasad90/Stock-app-flask-sql/blob/master/stock_library.py, line numbers - 144 and 153. This is used for sending mail notifications to the Mail-ID provided by user.
+
 Start the project - "python stock.py".
 
 NOTE for Pythonanywhere users:
